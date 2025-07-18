@@ -2,37 +2,37 @@ const produtos = [
   {
     nome: "Iphone 12",
     preco: 250,
-    imagem: "/img/iphone_12.png",
+    imagem: "img/iphone_12.png",
     quantidade: 1,
   },
   {
     nome: "iPhone 13",
     preco: 300,
-    imagem: "/img/iphone_13.png",
+    imagem: "img/iphone_13.png",
     quantidade: 1,
   },
   {
     nome: "iPhone 14",
     preco: 450,
-    imagem: "/img/iphone_14.png",
+    imagem: "img/iphone_14.png",
     quantidade: 1,
   },
   {
     nome: "iPhone 15",
     preco: 500,
-    imagem: "/img/iphone_15.png",
+    imagem: "img/iphone_15.png",
     quantidade: 1,
   },
   {
     nome: "iPhone 16",
     preco: 800,
-    imagem: "/img/iphone_16.png",
+    imagem: "img/iphone_16.png",
     quantidade: 1,
   },
   {
     nome: "Relogio Lacoste",
     preco: 400,
-    imagem: "/img/relogioLacoste.png",
+    imagem: "img/relogioLacoste.png",
     quantidade: 1,
   },
 ];
